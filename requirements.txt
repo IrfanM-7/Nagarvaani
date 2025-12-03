@@ -1,0 +1,6 @@
+sounddevice
+scipy
+pygame
+whisper
+gtts
+ollama
